@@ -1,1 +1,1 @@
-# [Go here](https://github.com/richardslab/wiki/wiki)
+# [WIKI](https://github.com/richardslab/wiki/wiki)
